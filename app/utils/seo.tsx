@@ -10,6 +10,10 @@ export const TEST_METADATA = {
   eu: {
     title: "Mi sitio europa", 
     description: "Esta es mi descripcion europa"
+  },
+  default: {
+    title: "Mi sitio default", 
+    description: "Esta es mi descripcion default"
   }
 
 }
